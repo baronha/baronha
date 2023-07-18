@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- Portfolio: https://baoha.vercel.app
+- ⚡️ Portfolio: https://baoha.vercel.app
 
 - 🔭 I’m currently working on [ABC Technology JSC.](https://abctech.asia/)
 

@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **baronn.ha@gmail.com**
 
-[![Patron][Patron]][Patron-URL] [![BuyMeACoffee][BuyMeACoffee]][BuyMeACoffee-URL] [![Kofi][Kofi]][Kofi-URL] 
+![ProfileView] [![Patron][Patron]][Patron-URL] [![BuyMeACoffee][BuyMeACoffee]][BuyMeACoffee-URL] [![Kofi][Kofi]][Kofi-URL] 
+
+[ProfileView]: https://komarev.com/ghpvc/?username=baronha&style=for-the-badge&color=F96854
 
 [BuyMeACoffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [BuyMeACoffee-URL]: https://buymeacoffee.com/baronha

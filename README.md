@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **baronn.ha@gmail.com**
 
-![ProfileView] [![Patron][Patron]][Patron-URL] [![BuyMeACoffee][BuyMeACoffee]][BuyMeACoffee-URL] [![Kofi][Kofi]][Kofi-URL] 
-
-[ProfileView]: https://komarev.com/ghpvc/?username=baronha&style=for-the-badge&color=F96854
+[![Patron][Patron]][Patron-URL] [![BuyMeACoffee][BuyMeACoffee]][BuyMeACoffee-URL] [![Kofi][Kofi]][Kofi-URL] ![ProfileView] 
 
 [BuyMeACoffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [BuyMeACoffee-URL]: https://buymeacoffee.com/baronha
@@ -22,3 +20,5 @@
 
 [Kofi]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
 [Kofi-URL]: https://ko-fi.com/baoha
+
+[ProfileView]: https://komarev.com/ghpvc/?username=baronha&style=for-the-badge&color=F16061

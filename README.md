@@ -5,7 +5,7 @@
 - ⚡️ Portfolio: https://baoha.vercel.app
 
 - 🔭 I'm working on an indie project [Binsoo✨](https://apps.apple.com/vn/app/binsoo-photo-editor/id6502683720)
-- 💬 Ask me about **React Native, NextJS**
+- 💬 Ask me about **React Native, NextJS, SwiftUI**
 
 - 📫 How to reach me **baronn.ha@gmail.com**
 
